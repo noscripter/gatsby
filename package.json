@@ -33,7 +33,7 @@
     "coffee-loader": "^0.7.3",
     "coffee-script": "^1.12.4",
     "commander": "^2.9.0",
-    "css-loader": "^0.26.2",
+    "css-loader": "^1.0.0",
     "debug": "^2.6.1",
     "detect-port": "^1.0.0",
     "extract-text-webpack-plugin": "^1.0.1",
